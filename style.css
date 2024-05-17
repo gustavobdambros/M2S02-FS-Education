@@ -1,3 +1,97 @@
-.teste {
-  background-color: red;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: #124559;
+}
+
+.navbar-nav .nav-item .nav-link {
+  font-size: 17px;
+  color: #eff6e0;
+}
+
+.main-item:hover {
+  transform: scale(1.1);
+  text-decoration: #eff6e0 underline 1px;
+  text-underline-offset: 12px;
+}
+
+.main-page {
+  height: 92vh;
+}
+
+.main-box-1 {
+  height: 92vh;
+  background-color: #eff6e0;
+}
+
+.main-box-2 {
+  height: 92vh;
+  background-color: #598392;
+}
+
+.retangle-1 {
+  width: 500px;
+  height: 50px;
+  background-color: #aec3b0;
+  margin-top: 2.5rem;
+  border-bottom-right-radius: 500px;
+}
+
+.main-name-1 {
+  color: #124559;
+  font-size: 3rem;
+  margin: 130px 0 10px 150px;
+}
+
+.main-name-2 {
+  color: #124559;
+  font-size: 3rem;
+  margin: 30px 0 10px 250px;
+  color: #598392;
+}
+
+.main-name-3 {
+  color: #124559;
+  font-size: 3rem;
+  margin: 30px 0 10px 300px;
+}
+
+.retangle-2 {
+  width: 500px;
+  height: 50px;
+  background-color: #aec3b0;
+  margin-top: 8rem;
+  border-top-right-radius: 500px;
+}
+
+.img-thumbnail {
+  position: relative;
+  margin-left: 54vw;
+  width: 25vw;
+  margin-top: -50rem;
+}
+
+.about {
+  padding: 2rem;
+  background-color: #aec3b0;
+  height: 30vh;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title-about {
+  font-size: 1.5rem;
+  color: #124559;
+  margin-top: 5px;
+}
+
+.description-about {
+  color: #01161e;
+  width: 60vw;
+  text-align: justify;
+  padding-top: 5px;
 }
