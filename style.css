@@ -57,7 +57,7 @@
   width: 400px;
   height: 50px;
   background-color: #aec3b0;
-  margin-top: 2.5rem;
+  margin-top: 2.3rem;
   border-bottom-right-radius: 500px;
   position: relative;
 }
@@ -257,7 +257,7 @@
   width: 600px;
   height: 20vh;
   margin-top: 200px;
-  margin-left: -160px;
+  margin-left: -158px;
 }
 
 .more-content {
@@ -328,6 +328,11 @@
   margin-left: 80vw;
 }
 
+.contact-box-2 {
+  margin-top: -184.5px;
+  height: 50vh;
+}
+
 .contact-title {
   position: relative;
   color: #124559;
@@ -362,8 +367,40 @@
   background-color: #124559;
 }
 
+.contact-phone {
+  margin-top: -200px;
+  margin-left: 100px;
+}
+
+.contact-email {
+  margin-top: -80px;
+  margin-left: -235px;
+}
+
+.written-box {
+  margin-top: 100px;
+  margin-left: -320px;
+}
+
+.message-contact {
+  margin-left: 200px;
+}
+
+.send-button {
+  background-color: #124559;
+  margin-top: 10px;
+}
+
+.send-button:hover {
+  scale: 1.03;
+}
+
+.message {
+  margin-top: 50px;
+}
+
 .footer {
-  width: 100vw;
+  width: 100%;
   height: 8vh;
   background-color: #124559;
   color: #eff6e0;
