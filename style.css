@@ -309,6 +309,15 @@
   background-color: #124559;
 }
 
+.skills-box-2 {
+  margin-left: 300px;
+}
+
+.skills-1 {
+  border-color: #124559 !important;
+  margin-right: 150px;
+}
+
 #contact {
   background-color: #eff6e0;
   height: 50vh;
